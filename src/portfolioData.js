@@ -66,6 +66,7 @@ export const skillsData = [
     skills: [
       { name: "JavaScript", level: 90, icon: "📜" },
       { name: "Java", level: 80, icon: "☕" },
+      { name: "C", level: 55, icon: "🧑‍💻 " },
       { name: "Git", level: 85, icon: "🌿" },
     ],
   },
