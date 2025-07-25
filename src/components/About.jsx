@@ -8,7 +8,7 @@ function About() {
           <div className="w-16 h-16 bg-gradient-to-r from-indigo-500 to-purple-600 rounded-full flex items-center justify-center shadow-lg">
             <span className="text-3xl">👨‍💻</span>
           </div>
-          <h2 className="text-4xl font-bold drop-shadow-lg">About Me</h2>
+          <h2 className="text-4xl font-bold  drop-shadow-lg">About Me</h2>
         </div>
         <div className="space-y-6">
           <div className="bg-gray-800/80 backdrop-blur-sm rounded-2xl p-8 border border-gray-700/50 shadow-xl">
